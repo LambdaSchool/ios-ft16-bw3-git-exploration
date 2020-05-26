@@ -3,6 +3,6 @@ Git Exploration for iOS FT 16's Unit 3 Build Sprint
 
 ## Favorite Things
 
-Name: Dimitri
-Color: Orange
+Name: Irtimid
+Color: Blue
 Food: Sushi
